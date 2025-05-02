@@ -1,4 +1,4 @@
-# Explore sem limites
+# FocusTimer
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cesarDanielRodrigues/explorer-focusTimer)
 ![GitHub language count](https://img.shields.io/github/languages/count/cesarDanielRodrigues/explorer-focusTimer)
